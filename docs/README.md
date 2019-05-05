@@ -1,0 +1,26 @@
+* * *
+
+![](https://cdn-images-1.medium.com/max/800/1*1CARlGsibDu3O1egaKn93w.png)
+
+This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN))
+
+### Table of content
+
+*   [Getting Started with the Demo](pages/001-getting-started-with-the-demo)
+*   [How to add character](pages/002-how-to-add-character)
+*   [How to add helmet item](pages/003-how-to-add-helmet-item)
+*   [How to add bomb item](pages/004-how-to-add-bomb-item)
+*   [How to add powerup](pages/005-how-to-add-bomb-item)
+*   [Gameplay configuration](pages/006-gameplay-configuration)
+*   [How to add Bot profiles](pages/007-how-to-add-bot-profiles)
+*   [Monetization, In Game Packages, IAP Products](pages/008-Monetization--In-Game-Packages--IAP-Products)
+*   [How to add new currency](pages/009-_How-to-add-new-currency-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
+*   [Ads Monetization](pages/010-ads-monetization)
+*   [Admob Integration](pages/011-_How-to-integrate-Admob-to-Battle-IO---Shooter-IO---Bomber-I)
+*   [Dedicate Server](pages/012-dedicate-server)
+*   [Dedicate server command line arguments](pages/013-_BATTLE-IO--BOMBER-IO--SHOOTER-IO---Dedication-Command-Line-Arguments)
+*   [Master Server Integration](pages/014-_BATTLE-IO--BOMBER-IO--SHOOTER-IO---Master-Server-Integration)
+*   [How to use character created by Fantasy Customizable Pack](pages/015-_Fantasy-Customizable-Pack---How-to-create-character-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
+*   [How to fix “NullReferenceException: Object reference not set to an instance of an object UIGameplay.UpdateRankings”](pages/016-_How-to-fix--NullReferenceException--Object-reference-not-set-to-an-instance-of-an-object-)
+
+Feel free to ask something or suggest in response box, Thank you :)
