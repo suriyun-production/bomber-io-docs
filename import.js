@@ -116,7 +116,7 @@ function convert2(mediumUrl, filePath, fileIndex)
 {
     var parsed = url.parse(mediumUrl);
     var fileName = path.basename(parsed.pathname);
-    fileName = fileName.replace("__BOMBER-IO---", "");
+    fileName = fileName.replace("_BOMBER-IO---", "");
     fileName = fileName.replace("_Bomber-IO---", "");
     fileName = fileName.replace("_bomber-io---", "");
     fileName = fileName.substr(10, fileName.length - 28);
