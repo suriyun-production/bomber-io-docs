@@ -15,3 +15,5 @@
   - [Master Server Integration](pages/014-_BATTLE-IO--BOMBER-IO--SHOOTER-IO---Master-Server-Integration)
   - [How to use character created by Fantasy Customizable Pack](pages/015-_Fantasy-Customizable-Pack---How-to-create-character-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
   - [How to fix “NullReferenceException: Object reference not set to an instance of an object UIGameplay.UpdateRankings”](pages/016-_How-to-fix--NullReferenceException--Object-reference-not-set-to-an-instance-of-an-object-)
+  - [How to update to PUN2](pages/101-update-to-pun2.md)
+  - [Playfab integration](pages/102-playfab-integration.md)
