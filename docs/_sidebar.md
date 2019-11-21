@@ -8,6 +8,7 @@
   - [How to add Bot profiles](pages/007-how-to-add-bot-profiles)
   - [Monetization, In Game Packages, IAP Products](pages/008-Monetization--In-Game-Packages--IAP-Products)
   - [How to add new currency](pages/009-_How-to-add-new-currency-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
+  - [Unity Ads Integration](pages/103-unity-ads-integration.md)
   - [Ads Monetization](pages/010-ads-monetization)
   - [Admob Integration](pages/011-_How-to-integrate-Admob-to-Battle-IO---Shooter-IO---Bomber-I)
   - [Dedicate Server](pages/012-dedicate-server)
