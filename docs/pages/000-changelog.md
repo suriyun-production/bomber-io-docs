@@ -1,6 +1,6 @@
 # Changelog (UNET)
 
-1.24b
+1.24b (2020-02-12)
 - Fix hide area bugs
 
 1.24
