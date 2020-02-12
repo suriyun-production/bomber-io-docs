@@ -1,3 +1,5 @@
+# Changelog (PUN2)
+
 1.16b
 - Fix hide area bugs
 - Fix cannot start game in offline mode
