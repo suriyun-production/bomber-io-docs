@@ -1,5 +1,8 @@
 # Changelog (PUN2)
 
+1.16c (2020-02-16)
+- Fix invalid adjusting BOTs amount when players enter or exit the game
+
 1.16b (2020-02-12)
 - Fix hide area bugs
 - Fix cannot start game in offline mode
