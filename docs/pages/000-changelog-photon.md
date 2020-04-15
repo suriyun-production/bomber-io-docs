@@ -1,5 +1,11 @@
 # Changelog (PUN2)
 
+1.17b (2020-04-16)
+- Add `NO_IAP` and `NO_ADS` predefined to disable IAP or ADS
+
+1.17 (2020-04-15)
+- Update PUN2
+
 1.16c (2020-02-16)
 - Fix invalid adjusting BOTs amount when players enter or exit the game
 
