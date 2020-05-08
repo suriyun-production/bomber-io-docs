@@ -1,5 +1,9 @@
 # Changelog (PUN2)
 
+1.18 (2020-05-08)
+- Fix black fade not fade out when start game sometime
+- Reduce character stats update packet size.
+
 1.17b (2020-04-16)
 - Add `NO_IAP` and `NO_ADS` predefined to disable IAP or ADS
 
