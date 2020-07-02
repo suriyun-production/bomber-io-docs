@@ -4,7 +4,8 @@ To update from UNET to LiteNetLibManager, you have to remove all UNET components
 
 * `CharacterEntity`, removes: `NetworkTransform`, `NetworkProximityChecker` and `NetworkIdentity`, then adds: `LiteNetLibIdentity`, `LiteNetLibTransform` and `LiteNetLibVisibleChecker` (optional).
 * `BotEntity`, removes: `NetworkTransform`, `NetworkProximityChecker` and `NetworkIdentity`, then adds: `LiteNetLibIdentity`, `LiteNetLibTransform` and `LiteNetLibVisibleChecker` (optional).
-* `BombEntity` removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
-* `BrickEntity` removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
-* `PowerupEntity` removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
-* `GameplayManager` removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
+* `BombEntity`, removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
+* `BrickEntity`, removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
+* `PowerupEntity`, removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
+* `GameplayManager`, removes: `NetworkIdentity`, then adds: `LiteNetLibIdentity`.
+* `GameNetworkManager`, adds: `LiteNetLibAssets` and `LiteNetLibDiscovery`.
