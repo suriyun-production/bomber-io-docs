@@ -6,29 +6,29 @@ Before download and import it to your project you should setup project to suppor
 
 * You can open `Services` tab from menu **Windows -> General -> Services**
 
-![](../images/0.png)
+![](../images/001/0.png)
 
 * Then select ADS
 
-![](../images/1.png)
+![](../images/001/1.png)
 
 * And turn on, you also should turn on **Enable built-in Ads extension**. If not you have to import [Monetization Package](https://assetstore.unity.com/packages/add-ons/services/unity-monetization-66123?aid=1100lGeN)
 
-![](../images/2.png)
+![](../images/001/2.png)
 
 ## Enable Unity Purchasing
 
 * You can open `Services` tab from menu **Windows -> General -> Services**
 
-![](../images/0.png)
+![](../images/001/0.png)
 
 * Then select In-App Purchasing
 
-![](../images/3.png)
+![](../images/001/3.png)
 
 * And turn on, then import the Purchasing package
 
-![](../images/4.png)
+![](../images/001/4.png)
 
 ## PUN2 version
 
