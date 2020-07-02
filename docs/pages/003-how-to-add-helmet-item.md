@@ -1,10 +1,10 @@
-* * *
+# How to add helmet item
 
-![](../images/11CARlGsibDu3O1egaKn93w.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN))
+## Prepare Helmet Model
 
 First, prepare helmet model. You may create empty scene then drag your helmet model into the scene to manage it, Then make it as prefab
+
+## Create and set Head Data
 
 Next, you have to create **HeadData**, right click on anywhere in Project tab choose **Create -> ScriptableObject**
 
@@ -17,6 +17,8 @@ In **Create ScriptableObject** dialog choose **HeadData**
 Then in head data set **Model Object** to helmet model prefab that you have created
 
 ![](../images/0d2CdMJg7LhRYRD3F.png)
+
+## Add created Head Data to Game Instance
 
 Then open **Home** scene add head data to **GameInstance**
 

@@ -1,5 +1,9 @@
 # Changelog (PUN2)
 
+1.19 (2020-07-02)
+- Change to move characters by changes transform's position, rigibody will be used to applies force.
+- Add `ExplosionForce` and `ExplosionForceRadius` settings to `Bomb Entity` it will applies to force character when explode.
+
 1.18 (2020-05-08)
 - Fix black fade not fade out when start game sometime
 - Reduce character stats update packet size.

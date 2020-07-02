@@ -1,8 +1,4 @@
-* * *
-
-![](../images/11CARlGsibDu3O1egaKn93w.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN))
+# In-Game package and In-App product
 
 In Home scene you will see **GameInstance** game object, in the **Monetization Manager** component you can set following configuration:
 

@@ -1,8 +1,6 @@
-* * *
+# How to add character
 
-![](../images/11CARlGsibDu3O1egaKn93w.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN))
+## Prepare Character Model
 
 First, prepare character model. You may create empty scene then drag your character model into the scene to manage it, In your character model add **CharacterModel** component
 
@@ -13,6 +11,8 @@ Then explore into character model children drag game object which you want to in
 ![](../images/0oN5GfQBpGovQzWqB.png)
 
 Then make it as a prefab.
+
+## Create and set Character Data
 
 Next, you have to create **CharacterData**, right click on anywhere in Project tab choose **Create -> ScriptableObject**
 
@@ -27,6 +27,8 @@ Then set it name as you wish but it must be unique for example I set it as **Cha
 Then in character data set **Character Model** to character model prefab that you have created
 
 ![](../images/0znhE-mCwemwH7Ft9.png)
+
+## Add created Character Data to Game Instance
 
 Then open **Home** scene add character data to **GameInstance**
 

@@ -1,8 +1,6 @@
-* * *
+# How to add bomb item
 
-![](../images/11CARlGsibDu3O1egaKn93w.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/102515?aid=1100lGeN))
+## Prepare Bomb Model
 
 First, prepare bomb entity. You may create empty scene then drag your bomb model into the scene to manage them, In the bomb model add **Bomb Entity** component
 
@@ -18,6 +16,8 @@ After finished setup then make them as prefab you will use it to set in **BombDa
 
 ![](../images/0R84hnV4q0i8Bow-u.png)
 
+## Create and set Bomb Data
+
 Next, you have to create **BombData**, right click on anywhere in Project tab choose **Create -> ScriptableObject**
 
 ![](../images/057TrawcSkgC64zCO.png)
@@ -29,6 +29,8 @@ In **Create ScriptableObject** dialog choose **BombData**
 Then in bomb data set bomb entity prefabs that you have created
 
 ![](../images/0fMLrPAzMQy8KrTPi.png)
+
+## Add created Bomb Data to Game Instance
 
 Then open **Home** scene add bomb data to **GameInstance**
 

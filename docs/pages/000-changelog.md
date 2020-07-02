@@ -1,3 +1,10 @@
+# Changelog (LiteNetLibManager)
+
+1.30 (2020-07-02)
+- Change networking system to `LiteNetLibManager`
+- Change to move characters by changes transform's position, rigibody will be used to applies force.
+- Add `ExplosionForce` and `ExplosionForceRadius` settings to `Bomb Entity` it will applies to force character when explode.
+
 # Changelog (UNET)
 
 1.24b (2020-02-12)
