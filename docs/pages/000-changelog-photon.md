@@ -1,5 +1,8 @@
 # Changelog (PUN2)
 
+## 1.20d (2021-03-29)
+- Fix score not reset when start new game.
+
 ## 1.20c (2020-12-08)
 - Remove automatic leave room from gameplay rule.
 - Hide room from lobby list when match end.
