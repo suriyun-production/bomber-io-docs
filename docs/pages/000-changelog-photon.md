@@ -1,5 +1,12 @@
 # Changelog (PUN2)
 
+## 1.21b (2021-09-09)
+- Fix bomb kick not being synced properly.
+- Fix death tiem not being synced properly.
+
+## 1.21 (2021-08-07)
+- Reduce packet size.
+
 ## 1.20d (2021-03-29)
 - Fix score not reset when start new game.
 

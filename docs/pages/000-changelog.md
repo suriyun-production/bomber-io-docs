@@ -1,5 +1,8 @@
 # Changelog (LiteNetLibManager)
 
+## 1.31 (2021-08-07)
+- Reduce packet size.
+
 ## 1.30c (2021-02-21)
 - Update to latest LiteNetLibManager version.
 - Fix networked prefabs not registered before server start.
