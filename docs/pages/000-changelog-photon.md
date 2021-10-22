@@ -1,5 +1,9 @@
 # Changelog (PUN2)
 
+## 1.22 (2021-10-22)
+- Fix character cannot being pushed by forces.
+- Fix Playfab data exporter not export bundles.
+
 ## 1.21b (2021-09-09)
 - Fix bomb kick not being synced properly.
 - Fix death tiem not being synced properly.
